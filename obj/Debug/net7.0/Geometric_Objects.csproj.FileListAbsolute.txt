@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\C# course\Geometric_Objects\Geometric_Objects\bin\Debug\net7.0\Geometric_Objects.exe
+C:\Users\User\Desktop\C# course\Geometric_Objects\Geometric_Objects\bin\Debug\net7.0\Geometric_Objects.deps.json
+C:\Users\User\Desktop\C# course\Geometric_Objects\Geometric_Objects\bin\Debug\net7.0\Geometric_Objects.runtimeconfig.json
+C:\Users\User\Desktop\C# course\Geometric_Objects\Geometric_Objects\bin\Debug\net7.0\Geometric_Objects.dll
+C:\Users\User\Desktop\C# course\Geometric_Objects\Geometric_Objects\bin\Debug\net7.0\Geometric_Objects.pdb
+C:\Users\User\Desktop\C# course\Geometric_Objects\Geometric_Objects\obj\Debug\net7.0\Geometric_Objects.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\C# course\Geometric_Objects\Geometric_Objects\obj\Debug\net7.0\Geometric_Objects.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\C# course\Geometric_Objects\Geometric_Objects\obj\Debug\net7.0\Geometric_Objects.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\C# course\Geometric_Objects\Geometric_Objects\obj\Debug\net7.0\Geometric_Objects.AssemblyInfo.cs
+C:\Users\User\Desktop\C# course\Geometric_Objects\Geometric_Objects\obj\Debug\net7.0\Geometric_Objects.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\C# course\Geometric_Objects\Geometric_Objects\obj\Debug\net7.0\Geometric_Objects.dll
+C:\Users\User\Desktop\C# course\Geometric_Objects\Geometric_Objects\obj\Debug\net7.0\refint\Geometric_Objects.dll
+C:\Users\User\Desktop\C# course\Geometric_Objects\Geometric_Objects\obj\Debug\net7.0\Geometric_Objects.pdb
+C:\Users\User\Desktop\C# course\Geometric_Objects\Geometric_Objects\obj\Debug\net7.0\Geometric_Objects.genruntimeconfig.cache
+C:\Users\User\Desktop\C# course\Geometric_Objects\Geometric_Objects\obj\Debug\net7.0\ref\Geometric_Objects.dll
